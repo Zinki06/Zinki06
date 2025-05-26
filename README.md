@@ -44,7 +44,7 @@ AI Robotics undergraduate @ Sejong University · Vision-Language & Embodied-AI r
 > 두 레포지토리는 Growthon 2025 해커톤용 풀스택 웹 앱을 목표로 2025-05-23에 마지막 업데이트되었습니다. 조직 전체 구조 및 언어 통계를 한눈에 볼 수 있어 팀 협업 시 빠른 온보딩이 가능합니다. :contentReference[oaicite:2]{index=2}
 
 ## 🏆 Highlights
-- **ICROS 2025** 논문 최종 발표자 선정  
+- **제 40회ICROS 2025** 논문 최종 발표자 선정  
 
 ## 📊 GitHub Stats
 ![Zinki06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zinki06&show_icons=true&hide=contribs)  
