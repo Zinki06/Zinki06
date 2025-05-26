@@ -8,8 +8,8 @@ AI Robotics undergraduate @ Sejong University · Vision-Language & Embodied-AI r
 ---
 
 ## 🧑‍💻 About Me
-- **Human–Robot Interaction 연구** — ICROS 2025 학술대회 발표 예정  
-- **Vision-Language / Multimodal AI** : YOLO, MiDaS, MediaPipe, GPT-4o 통합 시스템 설계  
+- **Human–Robot Interaction 연구** — ICROS 2025 학술대회 발표 
+- **Vision-Language / Multimodal AI** : YOLO, MiDaS, MediaPipe, GPT-4o 통합 시스템 설계, ROS  
 - **On-Device AI** : Gemma 3-4B 경량화, Jetson Orin Nano, Raspberry Pi 4  
 - **“Code → Robot → Insight”** 를 모토로 로봇팔·SLAM·AR 내비·음악 인터랙션 등 다양한 프로젝트 진행
 
