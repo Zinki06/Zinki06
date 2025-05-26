@@ -54,4 +54,4 @@ AI Robotics undergraduate @ Sejong University · Vision-Language & Embodied-AI r
 - **Email** : jimmy.byeon@sju.ac.kr
 - **instagram** : 
 
-<p align="center">“Learn deeply, build boldly, share generously.”</p>
+<p align="center">“HRI”</p>
