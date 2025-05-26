@@ -45,13 +45,6 @@ AI Robotics undergraduate @ Sejong University · Vision-Language & Embodied-AI r
 
 ## 🏆 Highlights
 - **ICROS 2025** 논문 최종 발표자 선정  
-- **Campus AI & Robotics Guild** : Team AURIX 리더 (Extreme-Robot Contest 준비)  
-- **Top 3** — 2025 Wind-Power Forecasting Competition (Team GaleMetrics)
-
-## 🚀 Currently Working On
-- **Melody Weaver** : 음성·손동작 기반 실시간 EDM 멜로디 제어  
-- **AngelTag** : 반려동물 NFC 키링 + 49일 디지털 추모 플랫폼  
-- **On-device Character-AI** 앱 (Gemma 3-4B mini, Flutter)
 
 ## 📊 GitHub Stats
 ![Zinki06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zinki06&show_icons=true&hide=contribs)  
