@@ -37,10 +37,10 @@ AI Robotics undergraduate @ Sejong University · Vision-Language & Embodied-AI r
 ## 🌱 Team Projects — 2025 Growthon Team 2
 | Repo | Role & Highlights | Tech / Stats |
 | --- | --- | --- |
-| **FE** |  React + Vite 프론트엔드 베이스. HMR, ESLint 설정 포함. 53 commits (main) | React, Vite, JavaScript 99.2 % :contentReference[oaicite:0]{index=0} |
-| **BE** |  Node.js 서버 with Docker Compose. REST API 진입점 `src/index.js`. 58 commits (main) | Node.js, Express, Docker, JavaScript 97.6 % :contentReference[oaicite:1]{index=1} |
+| **FE** |  React + Vite 프론트엔드 베이스. HMR, ESLint 설정 포함. 53 commits (main) | React, Vite, JavaScript 99.2 %  |
+| **BE** |  Node.js 서버 with Docker Compose. REST API 진입점 `src/index.js`. 58 commits (main) | Node.js, Express, Docker, JavaScript 97.6 %  |
 
-> 두 레포지토리는 Growthon 2025 해커톤용 풀스택 웹앱을 목표로 2025-05-23에 마지막 업데이트되었습니다. :contentReference[oaicite:2]{index=2}
+> 두 레포지토리는 Growthon 2025 해커톤용 풀스택 웹앱을 목표로 2025-05-23에 마지막 업데이트되었습니다. 
 
 ## 🏆 Highlights
 - **제 40회ICROS 2025** 논문 최종 발표자 선정  
