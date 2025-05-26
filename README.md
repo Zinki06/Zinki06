@@ -31,7 +31,7 @@ AI Robotics undergraduate @ Sejong University · Vision-Language & Embodied-AI r
 | **Vision-Language-AI for Interactive Robotic Manipulation** | 로봇팔이 자연어+제스처로 3-D 타깃을 지정하고 경로를 생성 | Python, ROS, YOLO, GPT-4o |
 | **Vibe-HandTune with LLM** | 손동작으로 EDM FX 파라미터를 실시간 제어 | MediaPipe, TouchDesigner, Python |
 | **Agent-Based Model Compression Playground** | 강화학습으로 소형 LLM 압축 자동화 실험 환경 | PyTorch, Docker |
-| **gachiitda** | 모임 매칭 풀스택 프로토타입 | React, Express |
+| **gachiitda** | 소외계층 재능 기부 매칭 MVP(해커톤) | React, Express |
 | **Flappy-Birds-Algorithm** | 진화 알고리즘으로 Flappy Bird 학습 | Vanilla JS, Canvas |
 
 ## 🌱 Team Projects — 2025 Growthon Team 2
