@@ -51,8 +51,7 @@ AI Robotics undergraduate @ Sejong University · Vision-Language & Embodied-AI r
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zinki06&layout=compact)
 
 ## 🤝 Contact
-- **Email** : zinki06 AT gmail.com  
-- **LinkedIn** : <https://linkedin.com/in/zinki06>  
-- **Blog** : <https://zinki06.github.io>
+- **Email** : jimmy.byeon@sju.ac.kr
+- **instagram** : 
 
 <p align="center">“Learn deeply, build boldly, share generously.”</p>
