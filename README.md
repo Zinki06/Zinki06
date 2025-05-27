@@ -33,7 +33,7 @@
 > **"Innovate. Build. Interact"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
 
 **AI Robotics Undergraduate & Research Student**  
-📍 Seoul, South Korea 🇰🇷  
+📍 Seoul, South Korea 🇰🇷 (2006~)
 🏫 [Sejong University (2025~)](http://www.sejong.ac.kr/)
 🔬 [Interactive Robotics Lab 학부연구생 (2025.04~)](https://sites.google.com/view/interactive-robotics-lab)  
 　　└ 👨‍🏫 [지도교수: 박규민 교수님](https://sites.google.com/view/interactive-robotics-lab/members/professor?authuser=0)
@@ -121,6 +121,7 @@
   - ai 와 robotics 융합 연구
 - 🎯 **제40회 ICROS 2025** - 한국로봇학회 학술대회 논문 발표자 선정
 - 💡 **Growthon 2025** - 풀스택 웹앱 개발 
+- **Team:JIANN** - 학생 창업 CTO 역할
 - 🤖 Vision-Language 기반 로봇 조작 시스템 개발
 - 🎵 실시간 제스처 기반 EDM 컨트롤러 구현
 - 🧠 LLM 모델 압축 자동화 환경 연구
