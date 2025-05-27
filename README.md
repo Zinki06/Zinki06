@@ -295,7 +295,7 @@ class RoboticsResearcher:
         <strong>Interactive Robotics Lab</strong><br/>
         세종대학교 AI로봇학과<br/>
         지도교수: 박규민 교수님<br/>
-        <a href="[https://ideallab.oopy.io](https://sites.google.com/view/interactive-robotics-lab)]">Lab Homepage</a>
+        <a href="[https://sites.google.com/view/interactive-robotics-lab]">Lab Homepage</a>
       </p>
     </td>
     <td align="center">
