@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- GitHub 다크/라이트 모드 전용 헤더 이미지 분기 -->
-![Light Mode Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20Undergraduate%20@%20Sejong%20University&descAlignY=55&descAlign=62&fontColor=666699&descFontColor=666699#gh-light-mode-only)
-![Dark Mode Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=250&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20Undergraduate%20@%20Sejong%20University&descAlignY=55&descAlign=62&fontColor=ffffff&descFontColor=ffffff#gh-dark-mode-only)
+![Dark Mode Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=250&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20Undergraduate%20@%20Sejong%20University&descAlignY=55&descAlign=50&fontColor=ffffff&descFontColor=ffffff#gh-dark-mode-only)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -144,7 +143,7 @@
 <summary><b>📅 2020-2023</b></summary>
 
 - 💻 프로그래밍 기초 학습 (Python, JavaScript, Java, C++)
-- 로켓 설계 및 개발
+- 🚀 로켓 설계 및 개발
 - 🌐 첫 웹 포트폴리오 제작
 - 📊 수학 및 통계 과제 프로젝트
 
