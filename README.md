@@ -39,10 +39,10 @@
 　　└  [지도교수: 박규민 교수님](https://sites.google.com/view/interactive-robotics-lab/members/professor?authuser=0)
 
 ### 🎯 Focus
-- **Human-Robot Interaction (HRI)** - 인간-로봇 상호작용 시스템
-- **Vision-Language-Action** - VLA 기반 로봇 제어
-- **AI-Robotics Integration Research** - ai 와 로보틱스 통합 연구
-- **Rapid AI App Development** – React Native & Supabase로 실전 AI 앱/서비스 기획 및 개발
+- **Human-Robot Interaction (HRI)**
+- **Vision-Language-Action**
+- **AI-Robotics Integration Research**
+- **Rapid AI App Development**
 
 
 ### 🔬 Research Experience
