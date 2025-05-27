@@ -1,152 +1,260 @@
-<!-- 프로필 README (Last updated: 2025-05-27) -->
 <div align="center">
-  
-# Hi, I'm **Zinki06** 👋🤖
 
-### AI Robotics undergraduate @ Sejong University  
-### Vision-Language & Embodied-AI researcher · Builder of things that move ✨
+<!-- 다크/라이트 모드 대응 헤더 이미지 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=250&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20•%20HRI%20•%20Full-Stack%20Developer&descAlignY=55&descAlign=62">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20•%20HRI%20•%20Full-Stack%20Developer&descAlignY=55&descAlign=62">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=250&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20•%20HRI%20•%20Full-Stack%20Developer&descAlignY=55&descAlign=62">
+</picture>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZinki06&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub followers](https://img.shields.io/github/followers/Zinki06?style=social)](https://github.com/Zinki06)
+<!-- 타이핑 효과 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Code+→+Robot+→+Insight;Building+the+Future+of+HRI;ICROS+2025+Paper+Presenter;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
+
+<!-- 소셜 배지 -->
+<p>
+  <a href="mailto:jimmy.byeon@sju.ac.kr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Zinki06">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/HRI">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zinki06&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
 </div>
 
----
+<!-- About Me 섹션 -->
+## 🌌 About Me
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-> **"Code → Robot → Insight"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
+```python
+class RoboticsResearcher:
+    def __init__(self):
+        self.name = "Byeon Keejung (변기정)"
+        self.role = "AI Robotics Researcher & Developer"
+        self.location = "Seoul, South Korea 🇰🇷"
+        self.education = "Sejong University"
+        self.research_interests = [
+            "Human-Robot Interaction",
+            "Vision-Language Models", 
+            "Gesture Recognition",
+            "Model Compression"
+        ]
+    
+    def current_focus(self):
+        return {
+            "🏆": "ICROS 2025 Conference Presenter",
+            "🤖": "Multimodal AI for Robotic Manipulation",
+            "🎮": "Real-time Gesture Control Systems",
+            "🚀": "LLM Model Compression Research"
+        }
+```
 
-- 🔬 **Human–Robot Interaction 연구** — ICROS 2025 학술대회 발표
-- 🤖 **Vision-Language / Multimodal AI** 전문
-  - YOLO, MiDaS, MediaPipe, GPT-4o 통합 시스템 설계
-  - ROS 기반 파이프라인 구현 및 최적화
-- 🎯 **로봇팔 제어 · SLAM 매핑 · AR 내비게이션 · 음악 인터랙션** 등 다양한 프로젝트 경험
-- 🌱 현재 **Embodied AI**와 **멀티모달 시스템** 연구에 집중
+<br clear="right"/>
 
----
+<!-- Featured Projects -->
+## 🚀 Featured Projects
 
-## 🔨 Tech Stack
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🦾 Vision-Language Robotic Manipulation</h3>
+      <div align="center">
+        <a href="https://github.com/Zinki06/Vision-Language-Model-based-AI-for-Interactive-Universal-Robotic-Manipulation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=Vision-Language-Model-based-AI-for-Interactive-Universal-Robotic-Manipulation&theme=tokyonight&hide_border=true" alt="Robotic Manipulation"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
+          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black"/>
+          <img src="https://img.shields.io/badge/MiDaS-FF6B6B?style=flat"/>
+          <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white"/>
+        </p>
+        <p><strong>ICROS 2025 Paper</strong> • STT + 제스처 기반 3D 로봇 제어</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎵 Vibe-HandTune with LLM</h3>
+      <div align="center">
+        <a href="https://github.com/Zinki06/Vibe-HandTune_withLLM">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=Vibe-HandTune_withLLM&theme=tokyonight&hide_border=true" alt="Vibe-HandTune"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/MediaPipe-0097FF?style=flat"/>
+          <img src="https://img.shields.io/badge/TouchDesigner-000000?style=flat"/>
+          <img src="https://img.shields.io/badge/MIDI-000000?style=flat"/>
+          <img src="https://img.shields.io/badge/Whisper-00A67E?style=flat"/>
+        </p>
+        <p>실시간 제스처로 EDM 음악 제어 시스템</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤝 가치있다 (Gachiitda)</h3>
+      <div align="center">
+        <a href="https://github.com/Zinki06/gachiitda">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=gachiitda&theme=tokyonight&hide_border=true" alt="Gachiitda"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        </p>
+        <p><strong>Growthon 2025</strong> • 소외계층 재능기부 매칭 플랫폼</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 SW ThemePark</h3>
+      <div align="center">
+        <a href="https://github.com/Zinki06/SW_ThemePark-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=SW_ThemePark-1&theme=tokyonight&hide_border=true" alt="SW ThemePark"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tkinter-FF6F61?style=flat"/>
+        </p>
+        <p>어린이 그림일기 AI 도우미 데스크톱 앱</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Tech Stack -->
+## 💻 Tech Stack
+
+<div align="center">
 
 ### 🤖 AI & Robotics
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 💻 Programming & Development
-<p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,vite&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,docker&theme=dark" />
 </p>
 
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="TouchDesigner" src="https://img.shields.io/badge/TouchDesigner-FF3D00?style=for-the-badge&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
----
+</div>
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zinki06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinki06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zinki06&theme=tokyonight&hide_border=true" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zinki06&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<!-- Achievements & Timeline -->
+## 🏆 Achievements & Timeline
+
+<details>
+<summary><b>📅 2025</b></summary>
+
+- 🎯 **ICROS 2025** - 제40회 한국로봇학회 학술대회 논문 발표
+- 💡 **Growthon 2025** - 풀스택 웹앱 개발 (FE 99.2%, BE 97.6% 커버리지)
+- 🤖 Vision-Language 기반 로봇 조작 시스템 개발
+- 🎵 실시간 제스처 기반 EDM 컨트롤러 구현
+
+</details>
+
+<details>
+<summary><b>📅 2024</b></summary>
+
+- 🔬 LLM 모델 압축 자동화 환경 연구
+- 🎮 진화 알고리즘 기반 Flappy Bird AI 개발
+- 📚 Sejong ML Study 참여
+
+</details>
+
+<details>
+<summary><b>📅 2020-2023</b></summary>
+
+- 🎓 프로그래밍 기초 학습 (Python, JavaScript, Java)
+- 🌐 첫 웹 포트폴리오 제작
+- 📊 수학 및 통계 과제 프로젝트
+
+</details>
+
+<!-- Research Interests -->
+## 🔬 Research Interests
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/robot-2.png" width="60"/>
+      <br><strong>HRI</strong><br>
+      <sub>인간-로봇 상호작용<br>자연어 & 제스처 인터페이스</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
+      <br><strong>Vision-Language AI</strong><br>
+      <sub>멀티모달 AI<br>3D 공간 인식</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/compress.png" width="60"/>
+      <br><strong>Model Compression</strong><br>
+      <sub>경량화 자동화<br>온디바이스 AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/augmented-reality.png" width="60"/>
+      <br><strong>AR/XR</strong><br>
+      <sub>공간 컴퓨팅<br>실시간 인터랙션</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Contact -->
+## 📫 Let's Connect!
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zinki06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zinki06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Zinki06&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-## 🚀 Representative Projects
-
-### 🤖 AI & Robotics
-<div align="center">
-
-[![Vision-Language AI](https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=Vision-Language-Model-based-AI-for-Interactive-Universal-Robotic-Manipulation&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Zinki06/Vision-Language-Model-based-AI-for-Interactive-Universal-Robotic-Manipulation)
-[![Vibe-HandTune](https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=Vibe-HandTune_withLLM&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Zinki06/Vibe-HandTune_withLLM)
-
-</div>
-
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🔧 Tech Stack |
-|:---------:|:--------------:|:-------------:|
-| **Vision-Language-AI for Interactive Robotic Manipulation** | 자연어+제스처로 3D 타깃 지정 → 경로 생성·이동 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white) ![OpenAI](https://img.shields.io/badge/-GPT--4o-412991?style=flat&logo=openai&logoColor=white) |
-| **Vibe-HandTune_withLLM** | 손동작·음성으로 EDM FX 실시간 제어 → MIDI/OSC 출력 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TouchDesigner](https://img.shields.io/badge/-TouchDesigner-FF3D00?style=flat&logoColor=white) |
-| **Agent-Based Model Compression Playground** | 강화학습 기반 온디바이스 LLM 자동 압축 실험 환경 | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
-</div>
-
-### 💡 Web & Algorithm Projects
-
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🔧 Tech Stack |
-|:---------:|:--------------:|:-------------:|
-| **gachiitda** | 소외계층 재능 기부 매칭 MVP (해커톤 🏆) | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Flappy-Birds-Algorithm** | 진화 알고리즘으로 Flappy Bird 자동 학습 데모 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-
-</div>
-
----
-
-## 🌱 Current Team Project — 2025 Growthon Team 2
-
-<div align="center">
-
-![Team Contribution](https://img.shields.io/badge/Team%20Role-Full%20Stack%20Developer-brightgreen?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Total%20Commits-111+-blue?style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-| 🗂️ Repository | 👨‍💻 Role & Contributions | 📊 Stats | 🔧 Tech |
-|:-------------:|:-------------------------:|:--------:|:-------:|
-| **Frontend** | React + Vite 아키텍처 설계<br/>HMR & ESLint 환경 구축<br/>UI/UX 구현 | 53 commits | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend** | RESTful API 설계<br/>Docker 컨테이너화<br/>서버 인프라 구축 | 58 commits | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zinki06&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF)
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.byeon@gmail.com)
-<!---[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)--->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alle.n01)
-<!---[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)--->
-
-</div>
-
----
-
-<div align="center">
+  **현재 AI 로보틱스, HRI, 제스처 인터랙션 분야의 협업 기회를 찾고 있습니다!**
   
-### 💭 *"Human Robot Interaction"*
+  <p>
+    <a href="mailto:jimmy.byeon@sju.ac.kr">
+      <img src="https://img.shields.io/badge/jimmy.byeon@sju.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  
+  <sub>언제든 연락 주세요. 함께 미래를 만들어갑시다! 🚀</sub>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zinki06&color=58A6FF&style=for-the-badge)
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=100&section=footer"/>
 </div>
