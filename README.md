@@ -36,7 +36,7 @@
 📍 Seoul, South Korea 🇰🇷 (2006~) <br>
 🏫 [Sejong University (2025~)](http://www.sejong.ac.kr/)<br>
 🔬 [Interactive Robotics Lab 학부연구생 (2025.04~)](https://sites.google.com/view/interactive-robotics-lab)  
-　　└ 👨‍🏫 [지도교수: 박규민 교수님](https://sites.google.com/view/interactive-robotics-lab/members/professor?authuser=0)
+　　└  [지도교수: 박규민 교수님](https://sites.google.com/view/interactive-robotics-lab/members/professor?authuser=0)
 
 ### 🎯 Focus
 - **Human-Robot Interaction (HRI)** - 인간-로봇 상호작용 시스템
