@@ -6,7 +6,7 @@
 ### AI Robotics undergraduate @ Sejong University  
 ### Vision-Language & Embodied-AI researcher · Builder of things that move ✨
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Zinki06&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZinki06&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub followers](https://img.shields.io/github/followers/Zinki06?style=social)](https://github.com/Zinki06)
 
 </div>
@@ -81,17 +81,26 @@
 
 </div>
 
+<div align="center">
+
 | 🎯 Project | 📝 Description | 🔧 Tech Stack |
-|-----------|----------------|---------------|
-| **Vision-Language-AI for Interactive Robotic Manipulation** | 자연어+제스처로 3D 타깃 지정 → 경로 생성·이동 | `Python` `ROS` `YOLO` `GPT-4o` |
-| **Vibe-HandTune_withLLM** | 손동작·음성으로 EDM FX 실시간 제어 → MIDI/OSC 출력 | `MediaPipe` `TouchDesigner` `Python` |
-| **Agent-Based Model Compression Playground** | 강화학습 기반 온디바이스 LLM 자동 압축 실험 환경 | `PyTorch` `Docker` `RL` |
+|:---------:|:--------------:|:-------------:|
+| **Vision-Language-AI for Interactive Robotic Manipulation** | 자연어+제스처로 3D 타깃 지정 → 경로 생성·이동 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white) ![OpenAI](https://img.shields.io/badge/-GPT--4o-412991?style=flat&logo=openai&logoColor=white) |
+| **Vibe-HandTune_withLLM** | 손동작·음성으로 EDM FX 실시간 제어 → MIDI/OSC 출력 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TouchDesigner](https://img.shields.io/badge/-TouchDesigner-FF3D00?style=flat&logoColor=white) |
+| **Agent-Based Model Compression Playground** | 강화학습 기반 온디바이스 LLM 자동 압축 실험 환경 | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+</div>
 
 ### 💡 Web & Algorithm Projects
+
+<div align="center">
+
 | 🎯 Project | 📝 Description | 🔧 Tech Stack |
-|-----------|----------------|---------------|
-| **gachiitda** | 소외계층 재능 기부 매칭 MVP (해커톤 🏆) | `React` `Express` `Node.js` |
-| **Flappy-Birds-Algorithm** | 진화 알고리즘으로 Flappy Bird 자동 학습 데모 | `Vanilla JS` `Canvas` `GA` |
+|:---------:|:--------------:|:-------------:|
+| **gachiitda** | 소외계층 재능 기부 매칭 MVP (해커톤 🏆) | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **Flappy-Birds-Algorithm** | 진화 알고리즘으로 Flappy Bird 자동 학습 데모 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+
+</div>
 
 ---
 
@@ -104,10 +113,14 @@
 
 </div>
 
+<div align="center">
+
 | 🗂️ Repository | 👨‍💻 Role & Contributions | 📊 Stats | 🔧 Tech |
-|---------------|-------------------------|----------|---------|
-| **Frontend** | React + Vite 아키텍처 설계<br/>HMR & ESLint 환경 구축<br/>UI/UX 구현 | 53 commits | `React` `Vite` `JavaScript` |
-| **Backend** | RESTful API 설계<br/>Docker 컨테이너화<br/>서버 인프라 구축 | 58 commits | `Node.js` `Express` `Docker` |
+|:-------------:|:-------------------------:|:--------:|:-------:|
+| **Frontend** | React + Vite 아키텍처 설계<br/>HMR & ESLint 환경 구축<br/>UI/UX 구현 | 53 commits | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend** | RESTful API 설계<br/>Docker 컨테이너화<br/>서버 인프라 구축 | 58 commits | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+</div>
 
 ---
 
@@ -121,8 +134,9 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.byeon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
 
 </div>
