@@ -327,17 +327,4 @@ class RoboticsResearcher:
     </a>
   </p>
   
-  <sub>함께 미래의 인간-로봇 협업 기술을 만들어갑시다! 🚀</sub>
-</div>
-
-<!-- Random Dev Quote -->
-<div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=100&section=footer"/>
-</div>
+  
