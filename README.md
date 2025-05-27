@@ -210,15 +210,16 @@ class RoboticsResearcher:
 - 💡 **Growthon 2025** - 풀스택 웹앱 개발 (높은 테스트 커버리지 달성)
 - 🤖 Vision-Language 기반 로봇 조작 시스템 개발
 - 🎵 실시간 제스처 기반 EDM 컨트롤러 구현
+- 🧠 LLM 모델 압축 자동화 환경 연구
+- 📚 Sejong ML Study 참여 및 주도
 
 </details>
 
 <details>
 <summary><b>📅 2024</b></summary>
 
-- 🧠 LLM 모델 압축 자동화 환경 연구
-- 🎮 진화 알고리즘 기반 Flappy Bird AI 개발
-- 📚 Sejong ML Study 참여 및 주도
+
+- 🎮 진화 알고리즘 기반 Flappy Bird AI 학습
 - 🦾 로봇팔 제어 시스템 프로토타입 개발
 - 🗺️ SLAM 매핑 알고리즘 구현
 
@@ -294,7 +295,7 @@ class RoboticsResearcher:
         <strong>Interactive Robotics Lab</strong><br/>
         세종대학교 AI로봇학과<br/>
         지도교수: 박규민 교수님<br/>
-        <a href="https://ideallab.oopy.io">Lab Homepage</a>
+        <a href="[https://ideallab.oopy.io](https://sites.google.com/view/interactive-robotics-lab)">Lab Homepage</a>
       </p>
     </td>
     <td align="center">
@@ -312,17 +313,17 @@ class RoboticsResearcher:
 </div>
 
 <!-- Contact -->
-## 📫 Let's Connect!
+## Connect
 
 <div align="center">
   
-  **AI 로보틱스, HRI, 협업 로봇 분야의 협업 기회를 찾고 있습니다!**
+  **AI 로보틱스, HRI(Human Robot Interaction**
   
   <p>
     <a href="https://github.com/Zinki06">
       <img src="https://img.shields.io/badge/GitHub-Zinki06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="mailto:jimmy.byeon@sju.ac.kr">
+    <a href="mailto:jimmy.byeon@gmail.com">
       <img src="https://img.shields.io/badge/Academic_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
