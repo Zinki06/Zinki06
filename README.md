@@ -23,15 +23,16 @@
   <a href="https://instagram.com/HRI">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZinki06&count_bg=%2358A6FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile views"/>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Zinki06&color=blue&style=flat-square)
 
 </div>
 
 <!-- About Me 섹션 -->
 ## 🧑‍💻 About Me
 
-> **"Code → Robot → Insight"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
+> **"Innovate. Build. Interact"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
 
 ```python
 class RoboticsResearcher:
