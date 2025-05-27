@@ -17,7 +17,7 @@
 
 > **"Code → Robot → Insight"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
 
-- 🔬 **Human–Robot Interaction 연구** — ICROS 2025 학술대회 발표 예정
+- 🔬 **Human–Robot Interaction 연구** — ICROS 2025 학술대회 발표
 - 🤖 **Vision-Language / Multimodal AI** 전문
   - YOLO, MiDaS, MediaPipe, GPT-4o 통합 시스템 설계
   - ROS 기반 파이프라인 구현 및 최적화
@@ -134,10 +134,10 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.byeon@gmail.com)
+<!---[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alle.n01)
+<!---[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)--->
 
 </div>
 
@@ -145,7 +145,7 @@
 
 <div align="center">
   
-### 💭 *"The future belongs to those who build bridges between AI and reality"*
+### 💭 *"Human Robot Interaction"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zinki06&color=58A6FF&style=for-the-badge)
 
