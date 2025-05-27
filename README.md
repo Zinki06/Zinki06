@@ -15,17 +15,6 @@
 - **“Code → Robot → Insight”** 를 모토로  
   로봇팔 제어 · SLAM 매핑 · AR 내비게이션 · 음악 인터랙션 등 다양 프로젝트 진행  
 
----
-
-## 🎨 Design & Dark-Mode Friendly
-<p align="center">
-  <picture>
-    <source srcset="https://github.com/Zinki06.png?size=200" media="(prefers-color-scheme: light)">
-    <img src="https://github.com/Zinki06.png?size=200" alt="Zinki06 avatar" width="120" style="border-radius:50%; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
-  </picture>
-</p>
-
-> **다크모드** 환경에서도 잘 어울리도록, 모든 배지와 이미지에 `<picture>` 혹은 다크 테마 옵션을 적용했습니다.
 
 ---
 
