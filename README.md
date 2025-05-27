@@ -243,45 +243,26 @@ class RoboticsResearcher:
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/robot-2.png" width="60"/>
       <br><strong>HRI</strong><br>
-      <sub>인간-로봇 상호작용<br>안전한 협업 시스템<br>멀티모달 커뮤니케이션</sub>
+      <sub>인간-로봇 상호작용</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/virtual-reality.png" width="60"/>
       <br><strong>Mixed Reality</strong><br>
-      <sub>MR 기반 인터페이스<br>공간 컴퓨팅<br>실시간 시각화</sub>
+      <sub>공간 컴퓨팅</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
       <br><strong>AI Control</strong><br>
-      <sub>예측 알고리즘<br>이상 탐지 시스템<br>지능형 로봇 제어</sub>
+      <sub>지능형 로봇 제어</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/robot.png" width="60"/>
       <br><strong>Collaborative Robotics</strong><br>
-      <sub>협업 로봇 시스템<br>작업 효율성 향상<br>안전성 보장</sub>
+      <sub>협업 로봇 시스템</sub>
     </td>
   </tr>
 </table>
 
-<!-- Currently Learning -->
-## 🌱 Currently Learning & Exploring
-
-<div align="center">
-  
-  ```mermaid
-  graph LR
-    A[Current Focus] --> B[HRI Systems]
-    A --> C[Mixed Reality]
-    A --> D[AI-based Control]
-    B --> E[Safety in Collaboration]
-    B --> F[Predictive Algorithms]
-    C --> G[MR Interfaces]
-    C --> H[Spatial Computing]
-    D --> I[Anomaly Detection]
-    D --> J[Intelligent Control]
-  ```
-  
-</div>
 
 <!-- Lab Information -->
 ## 🏫 Interactive Robotics Lab(학부연구생)
@@ -327,5 +308,3 @@ class RoboticsResearcher:
       <img src="https://img.shields.io/badge/Academic_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-  
-  
