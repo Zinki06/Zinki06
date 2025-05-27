@@ -76,7 +76,7 @@
 ### 🤖 AI & Robotics
 <div align="center">
 
-[![Vision-Language AI](https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=Vision-Language-AI-Interactive-Robotic-Manipulation&theme=tokyonight&hide_border=true&bg_color=0D1117)]([https://github.com/Zinki06/Vision-Language-AI-Interactive-Robotic-Manipulation](https://github.com/Zinki06/Vision-Language-Model-based-AI-for-Interactive-Universal-Robotic-Manipulation.git))
+[![Vision-Language AI](https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=Vision-Language-Model-based-AI-for-Interactive-Universal-Robotic-Manipulation&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Zinki06/Vision-Language-Model-based-AI-for-Interactive-Universal-Robotic-Manipulation)
 [![Vibe-HandTune](https://github-readme-stats.vercel.app/api/pin/?username=Zinki06&repo=Vibe-HandTune_withLLM&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Zinki06/Vibe-HandTune_withLLM)
 
 </div>
