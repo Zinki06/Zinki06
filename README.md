@@ -284,7 +284,7 @@ class RoboticsResearcher:
 </div>
 
 <!-- Lab Information -->
-## 🏫 Interactive Robotics Lab
+## 🏫 Interactive Robotics Lab(학부연구생)
 
 <div align="center">
 <table>
