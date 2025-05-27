@@ -9,7 +9,7 @@
 
 <!-- 타이핑 효과 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Vision-Language+%26+Embodied+AI+Researcher;Code+→+Robot+→+Insight;ICROS+2025+Conference+Presenter;Builder+of+Things+That+Move+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Vision-Language+%26+Embodied+AI+Researcher;Interactive+Robotics+Lab+@+Sejong+University;Code+→+Robot+→+Insight;ICROS+2025+Conference+Presenter;Builder+of+Things+That+Move+✨" alt="Typing SVG" />
 </a>
 
 <!-- 소셜 배지 -->
@@ -31,43 +31,43 @@
 <!-- About Me 섹션 -->
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Robot Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 > **"Code → Robot → Insight"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
 
 ```python
 class RoboticsResearcher:
     def __init__(self):
         self.username = "Zinki06"
-        self.role = "AI Robotics Undergraduate"
-        self.university = "Sejong University"
+        self.role = "AI Robotics Undergraduate & Research Student"
+        self.university = "Sejong University (2025~)"
+        self.lab = "Interactive Robotics Lab"
+        self.advisor = "Prof. Kyumin Park"
         self.location = "Seoul, South Korea 🇰🇷"
         self.research_focus = [
-            "Human-Robot Interaction",
+            "Human-Robot Interaction (HRI)",
             "Vision-Language Models",
-            "Embodied AI",
-            "Multimodal Systems"
+            "Collaborative Robotics",
+            "Mixed Reality Interfaces"
         ]
         self.motto = "Code → Robot → Insight"
     
-    def current_projects(self):
+    def current_activities(self):
         return {
+            "🔬": "Interactive Robotics Lab 학부연구생 (2025.04~)",
             "🏆": "ICROS 2025 학술대회 발표",
-            "🤖": "Vision-Language AI 시스템 설계",
-            "🦾": "로봇팔 제어 & SLAM 매핑",
-            "🎮": "실시간 제스처 인터랙션",
-            "🔬": "LLM 모델 압축 연구",
-            "🌐": "AR 내비게이션 시스템"
+            "🤖": "인간-로봇 협업 시스템 연구",
+            "🦾": "예측 및 이상 탐지 알고리즘 개발",
+            "🥽": "MR 기반 HRI 인터페이스 설계",
+            "🎮": "실시간 제스처 인터랙션"
         }
 ```
 
 ### 🔬 Research Experience
-- **Human–Robot Interaction 연구** — 제40회 ICROS 2025 학술대회 논문 발표자 선정
+- **Interactive Robotics Lab 학부연구생** (2025.04~) — 박규민 교수님 지도
+  - 인간-로봇 협업을 위한 안전하고 효과적인 상호작용 시스템 연구
+  - 혼합현실(MR) 기반 인간-로봇 인터페이스 개발
+  - AI 기반 로봇 제어 및 예측 알고리즘 구현
+- **ICROS 2025 학술대회** — 제40회 한국로봇학회 논문 발표자 선정
 - **Vision-Language / Multimodal AI** — YOLO, MiDaS, MediaPipe, GPT-4o 통합 시스템 설계
-- **ROS 기반 파이프라인** 구현 및 최적화
-- **다양한 프로젝트 경험**: 로봇팔 제어 · SLAM 매핑 · AR 내비게이션 · 음악 인터랙션
-
-<br clear="right"/>
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
@@ -201,11 +201,15 @@ class RoboticsResearcher:
 <details>
 <summary><b>📅 2025</b></summary>
 
+- 🎓 **세종대학교 AI로봇학과 입학** (2025.03)
+- 🔬 **Interactive Robotics Lab 학부연구생 시작** (2025.04)
+  - 지도교수: 박규민 교수님
+  - 인간-로봇 협업 시스템 연구
+  - MR 기반 인터페이스 개발
 - 🎯 **제40회 ICROS 2025** - 한국로봇학회 학술대회 논문 발표자 선정
 - 💡 **Growthon 2025** - 풀스택 웹앱 개발 (높은 테스트 커버리지 달성)
 - 🤖 Vision-Language 기반 로봇 조작 시스템 개발
 - 🎵 실시간 제스처 기반 EDM 컨트롤러 구현
-- 🔬 Embodied AI 및 멀티모달 시스템 연구 집중
 
 </details>
 
@@ -223,7 +227,6 @@ class RoboticsResearcher:
 <details>
 <summary><b>📅 2020-2023</b></summary>
 
-- 🎓 AI 로보틱스 전공 시작
 - 💻 프로그래밍 기초 학습 (Python, JavaScript, Java, C++)
 - 🌐 첫 웹 포트폴리오 제작
 - 📊 수학 및 통계 과제 프로젝트
@@ -232,29 +235,29 @@ class RoboticsResearcher:
 </details>
 
 <!-- Research Interests -->
-## 🔬 Research Interests & Project Experience
+## 🔬 Research Interests @ Interactive Robotics Lab
 
 <table>
   <tr>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/robot-2.png" width="60"/>
       <br><strong>HRI</strong><br>
-      <sub>인간-로봇 상호작용<br>자연어 & 제스처 인터페이스<br>멀티모달 커뮤니케이션</sub>
+      <sub>인간-로봇 상호작용<br>안전한 협업 시스템<br>멀티모달 커뮤니케이션</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/virtual-reality.png" width="60"/>
+      <br><strong>Mixed Reality</strong><br>
+      <sub>MR 기반 인터페이스<br>공간 컴퓨팅<br>실시간 시각화</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
-      <br><strong>Embodied AI</strong><br>
-      <sub>Vision-Language Models<br>3D 공간 인식 & 추론<br>로봇팔 제어 시스템</sub>
+      <br><strong>AI Control</strong><br>
+      <sub>예측 알고리즘<br>이상 탐지 시스템<br>지능형 로봇 제어</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/route.png" width="60"/>
-      <br><strong>SLAM & Navigation</strong><br>
-      <sub>실시간 매핑<br>AR 내비게이션<br>자율 주행 알고리즘</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/music.png" width="60"/>
-      <br><strong>Interactive Media</strong><br>
-      <sub>음악 인터랙션<br>제스처 기반 제어<br>실시간 오디오 처리</sub>
+      <img src="https://img.icons8.com/fluency/96/000000/robot.png" width="60"/>
+      <br><strong>Collaborative Robotics</strong><br>
+      <sub>협업 로봇 시스템<br>작업 효율성 향상<br>안전성 보장</sub>
     </td>
   </tr>
 </table>
@@ -266,17 +269,46 @@ class RoboticsResearcher:
   
   ```mermaid
   graph LR
-    A[Current Focus] --> B[Embodied AI]
-    A --> C[Multimodal Systems]
-    A --> D[On-device AI]
-    B --> E[3D Scene Understanding]
-    B --> F[Robot Learning]
-    C --> G[Vision-Language Models]
-    C --> H[Cross-modal Reasoning]
-    D --> I[Model Compression]
-    D --> J[Edge Computing]
+    A[Current Focus] --> B[HRI Systems]
+    A --> C[Mixed Reality]
+    A --> D[AI-based Control]
+    B --> E[Safety in Collaboration]
+    B --> F[Predictive Algorithms]
+    C --> G[MR Interfaces]
+    C --> H[Spatial Computing]
+    D --> I[Anomaly Detection]
+    D --> J[Intelligent Control]
   ```
   
+</div>
+
+<!-- Lab Information -->
+## 🏫 Interactive Robotics Lab
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>🔬 Research Lab</h3>
+      <p>
+        <strong>Interactive Robotics Lab</strong><br/>
+        세종대학교 AI로봇학과<br/>
+        지도교수: 박규민 교수님<br/>
+        <a href="https://ideallab.oopy.io">Lab Homepage</a>
+      </p>
+    </td>
+    <td align="center">
+      <h3>📚 Research Topics</h3>
+      <p>
+        • 인간-로봇 상호작용 (HRI)<br/>
+        • 협업 로봇 시스템<br/>
+        • 예측 및 이상 탐지<br/>
+        • MR 기반 인터페이스<br/>
+        • AI 기반 제어
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 <!-- Contact -->
@@ -284,7 +316,7 @@ class RoboticsResearcher:
 
 <div align="center">
   
-  **AI 로보틱스, HRI, Embodied AI 분야의 협업 기회를 찾고 있습니다!**
+  **AI 로보틱스, HRI, 협업 로봇 분야의 협업 기회를 찾고 있습니다!**
   
   <p>
     <a href="https://github.com/Zinki06">
@@ -295,7 +327,7 @@ class RoboticsResearcher:
     </a>
   </p>
   
-  <sub>함께 미래의 로봇 기술을 만들어갑시다! 🚀</sub>
+  <sub>함께 미래의 인간-로봇 협업 기술을 만들어갑시다! 🚀</sub>
 </div>
 
 <!-- Random Dev Quote -->
