@@ -7,10 +7,11 @@
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=250&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20Undergraduate%20@%20Sejong%20University&descAlignY=55&descAlign=62">
 </picture>
 
-<!-- 타이핑 효과 -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Vision-Language+%26+Embodied+AI+Researcher;Interactive+Robotics+Lab+@+Sejong+University;Code+→+Robot+→+Insight;ICROS+2025+Conference+Presenter;Builder+of+Things+That+Move+✨" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&lines=AI+%7C+Robotics+%7C+HRI+%7C+Vision-Language;Innovate.+Build.+Interact.;ICROS+2025+Conference+Presenter;Builder+of+Things+That+Move+%E2%9C%A8" alt="Animated Typing SVG" />
+  </a>
+</p>
 
 <!-- 소셜 배지 -->
 <p>
@@ -26,6 +27,8 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zinki06&color=blue&style=flat-square)
+
+
 
 </div>
 
