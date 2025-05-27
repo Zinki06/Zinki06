@@ -73,7 +73,7 @@
 <p align="center">
   <a href="mailto:jimmy.byeon@sju.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/your_instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!---  <a href="https://www.linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> --->
 </p>
 
-<p align="center"><em>“Keep it modern, keep it dark.” 🖤</em></p>
+<p align="center"><em>“Human Robot Interaction”</em></p>
