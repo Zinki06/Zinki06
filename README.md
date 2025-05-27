@@ -33,8 +33,8 @@
 > **"Innovate. Build. Interact"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
 
 **AI Robotics Undergraduate & Research Student**  
-📍 Seoul, South Korea 🇰🇷 (2006~)
-🏫 [Sejong University (2025~)](http://www.sejong.ac.kr/)
+📍 Seoul, South Korea 🇰🇷 (2006~) <br>
+🏫 [Sejong University (2025~)](http://www.sejong.ac.kr/)<br>
 🔬 [Interactive Robotics Lab 학부연구생 (2025.04~)](https://sites.google.com/view/interactive-robotics-lab)  
 　　└ 👨‍🏫 [지도교수: 박규민 교수님](https://sites.google.com/view/interactive-robotics-lab/members/professor?authuser=0)
 
