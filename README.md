@@ -32,7 +32,7 @@
 
 > **"Innovate. Build. Interact"** , 인공지능과 로보틱스의 융합을 연구합니다
 
-**AI & Robotics Undergraduate & Research Student**  
+**AI and Robotics Undergraduate & Research Student**  
 📍 Seoul, South Korea 🇰🇷 (2006~) <br>
 🏫 [Sejong University (2025~)](http://www.sejong.ac.kr/)<br>
 🔬 [Interactive Robotics Lab 학부연구생 (2025.04~)](https://sites.google.com/view/interactive-robotics-lab)  
