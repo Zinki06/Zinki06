@@ -115,8 +115,8 @@
 <details>
 <summary><b>📅 2025</b></summary>
 
-- 🎓 **세종대학교 AI로봇학과 입학** (2025.03)
-- 🔬 **Interactive Robotics Lab 학부연구생 시작** (2025.04)
+- 🎓 **세종대학교 AI로봇학과 입학** (2025.03~)
+- 🔬 **Interactive Robotics Lab 학부연구생 시작** (2025.04~)
   - 지도교수: 박규민 교수님
   - ai 와 robotics 융합 연구
 - 🎯 **제40회 ICROS 2025** - 한국로봇학회 학술대회 논문 발표자 선정
@@ -126,7 +126,7 @@
 - 🎵 실시간 제스처 기반 EDM 컨트롤러 구현
 - 🧠 LLM 모델 압축 자동화 환경 연구
 - 🗺️ SLAM 매핑 알고리즘 구현
-- 📚 Sejong ML Study 참여
+- 📚 Smarcle ML Study 참여
 - 🎨 어린이 그림일기 AI 도우미 앱 개발
 
 </details>
