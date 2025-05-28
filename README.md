@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-> **"Innovate. Build. Interact"** 을 모토로 인공지능과 로보틱스의 융합을 연구합니다
+> **"Innovate. Build. Interact"** , 인공지능과 로보틱스의 융합을 연구합니다
 
 **AI Robotics Undergraduate & Research Student**  
 📍 Seoul, South Korea 🇰🇷 (2006~) <br>
