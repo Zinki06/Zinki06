@@ -110,7 +110,7 @@
 </div>
 
 <!-- Achievements & Timeline -->
-## 🏆 Timeline
+## 🏆 Timeline (dropdown(▼) 클릭)
 
 <details>
 <summary><b>📅 2025</b></summary>
