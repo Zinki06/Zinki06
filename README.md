@@ -38,7 +38,7 @@
 🔬 [Interactive Robotics Lab 학부연구생 (2025.04~)](https://sites.google.com/view/interactive-robotics-lab)  
 　　└  [지도교수: 박규민 교수님](https://sites.google.com/view/interactive-robotics-lab/members/professor?authuser=0)
 
-### 🎯 Focus
+<summary><b>### 🎯 Focus</b></summary>
 - **Human-Robot Interaction (HRI)**
 - **Vision-Language-Action**
 - **AI-Robotics Integration Research**
