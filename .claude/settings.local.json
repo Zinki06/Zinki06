@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Bash(git commit:*)",
+      "WebSearch",
+      "WebFetch(domain:dev.to)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

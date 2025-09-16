@@ -1,128 +1,67 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=280&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20Undergraduate%20Researcher&descAlignY=55&descAlign=50&fontColor=ffffff&descFontColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,120,150,180,200&height=280&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20Undergraduate%20Researcher&descAlignY=55&descAlign=50&fontColor=000000&descFontColor=000000">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=280&section=header&text=Zinki06&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Robotics%20Undergraduate%20Researcher&descAlignY=55&descAlign=50&fontColor=ffffff&descFontColor=ffffff" alt="Header for Zinki06's GitHub Profile">
-</picture>
+## 변지민 (Jimin Byeon)
 
-**Innovate. Build. Interact.** *AI와 로보틱스의 융합을 통해 인간과 상호작용하는 지능형 시스템을 연구하고 개발합니다.*
-
-<p>
-  <a href="https://github.com/Zinki06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:jimmy.byeon@sju.ac.kr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  </p>
+AI 로보틱스 학부 연구생으로 자연어·시각·제스처를 잇는 인간-로봇 상호작용을 설계합니다.  
+세종대학교 Interactive Robotics Lab에서 안전 중심 협업 로봇 연구를 진행하고 있습니다.
 
 </div>
 
 ---
 
-### About Me
-
-- 🎓 **AI-Robotics Undergraduate** at [Sejong University](http://www.sejong.ac.kr/) (2025~)
-- 🔬 **Undergraduate Researcher** at [Interactive Robotics Lab](https://sites.google.com/view/interactive-robotics-lab) (2025.04~)
-- 📍 Based in **Seoul, South Korea** 🇰🇷
-- 🎯 **Core Interests**: Human-Robot Interaction (HRI), Vision-Language Models, and building intelligent, interactive systems.
-
-### Research & Achievements
-
-- **🏆 [ICROS 2025] Best Paper Award (Oral Presentation)**
-  <details>
-  <summary>View Details</summary>
-    Presented a novel system integrating **YOLO, MiDaS, and LLMs** for enhanced human-robot interaction at the 40th ICROS conference.
-  </details>
-
-- **🔬 Interactive Robotics Lab Research**
-  <details>
-  <summary>View Details</summary>
-    - Developing and implementing safety-aware interaction systems for human-robot collaboration.
-    - Researching AI-based algorithms for robot control and behavior prediction.
-  </details>
-
----
+### 연구 초점
+- 언어·시각·모션 신호를 통합하는 멀티모달 인지 파이프라인 구축
+- 시뮬레이션에서 실험실 로봇팔로 전이 가능한 조작 알고리즘 개발
+- 사용자 연구 기반의 협업·서비스 로봇 평가 지표 설계
 
 ### Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="180"><strong>AI & Robotics</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI/ML Icons" />
-      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS"/>
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"/>
-      <img src="https://img.shields.io/badge/MediaPipe-0097FF?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
-    </td>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Database</strong></td>
+    <td align="center"><strong>Tools</strong></td>
   </tr>
   <tr>
-    <td align="center"><strong>Programming</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cpp,js,java,flutter,react,nodejs,express,vite" alt="Programming Icons" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,vite,flutter" alt="Frontend icons" />
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Platforms</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools & Platforms Icons" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,nodejs,express,cpp" alt="Backend icons" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="Database icons" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,git,linux,vscode" alt="Tools icons" /><br/>
+      <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" alt="ROS badge" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO badge" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097FF?style=flat&logo=google&logoColor=white" alt="MediaPipe badge" />
     </td>
   </tr>
 </table>
 
----
+### 대표 프로젝트
+- **[Vision-Language Robotic Manipulation](./projects/Vision-Language-Robotic-Manipulation.md)**  
+  자연어 명령과 손 포인팅을 결합한 실험실 로봇팔 제어 시스템.  
+  - YOLO·MiDaS·GPT-4o 융합으로 ICROS 2025 Best Paper Award (Oral) · Undergraduate Paper Award 동시 수상  
+  - Stack: `ROS` `YOLO` `MiDaS` `GPT-4o`
+- **[Vibe-HandTune with LLM](./projects/Vibe-HandTune-with-LLM.md)**  
+  제스처와 음성 명령을 동시에 사용하는 인터랙티브 EDM 컨트롤러.  
+  - 50ms 이하 지연으로 양손 제스처·Whisper 음성 제어를 TouchDesigner 비주얼과 동기화  
+  - Stack: `MediaPipe` `Whisper` `Python` `TouchDesigner`
+- **[Gachiitda](./projects/Gachiitda.md)**  
+  재능 기부자와 수요자를 연결하는 Growthon 2025 해커톤 웹 애플리케이션.  
+  - React·Express 기반 실시간 채팅과 테스트 커버리지 97% 이상 확보  
+  - Stack: `React` `Express` `MongoDB` `Socket.io`
 
-### GitHub Analytics
+### 경험 및 활동
+- **Interactive Robotics Lab (Sejong Univ.)** — 학부 연구생 (2025.04~); 안전 인지·사용자 평가 도구 개발
+- **ICROS 2025 Best Paper Award (Oral) & Undergraduate Paper Award** — 언어-제스처 융합 로봇 제어 파이프라인 발표
+- **Team UI:MI | CTO** — 재능 공유 플랫폼의 시스템 아키텍처 리드
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zinki06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Zinki06's GitHub Stats"/>
-</div>
-
-<details align="center">
-  <summary>Show More Stats ▼</summary>
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinki06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Zinki06's Top Languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zinki06&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zinki06&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="GitHub Activity Graph"/>
-</details>
-
----
-
-### Timeline
-
-<details>
-<summary><b>📅 2025</b></summary>
-
-- **[Award]** 🏆 **제40회 ICROS 2025 우수논문상 수상**
-- **[Research]** 🔬 **Interactive Robotics Lab 학부연구생** (지도: 박규민 교수님)
-- **[University]** 🎓 **세종대학교 AI로봇학과 입학**
-- **[Project]** 🤖 Vision-Language 기반 로봇 조작 시스템 개발
-- **[Project]** 실시간 제스처 기반 EDM 컨트롤러 구현
-- **[Project]** 어린이 그림일기 AI 도우미 앱 개발
-- **[Startup]** 💼 **Team | UI:MI** 학생 창업팀 CTO
-- **[Collaboration]** 💡 **Growthon 2025** - 풀스택 웹앱 개발 참여 (BE)
-- **[Study]** 📚 Smarcle ML/DL Study 참여
-
-</details>
-
-<details>
-<summary><b>📅 2024</b></summary>
-
-- **[Project]** 🎮 **진화 알고리즘 기반 Flappy Bird AI** 개발
-- **[Project]** 🦾 **로봇팔 제어 시스템 프로토타입** 개발
-
-</details>
-
-<details>
-<summary><b>📅 2020-2023</b></summary>
-
-- **[Self-Study]** 💻 **프로그래밍 기초 학습** (Python, JavaScript, Java, C++)
-- **[Project]** 🚀 로켓 설계 및 개발 프로젝트
-- **[Project]** 🌐 첫 개인 웹 포트폴리오 제작
-
-</details>
+### 연락처
+- GitHub: [@Zinki06](https://github.com/Zinki06)
+- Email: [jimmy.byeon@sju.ac.kr](mailto:jimmy.byeon@sju.ac.kr)
+- Lab: [Interactive Robotics Lab](https://sites.google.com/view/interactive-robotics-lab)
