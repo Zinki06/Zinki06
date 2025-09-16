@@ -36,6 +36,11 @@ ICROS 2025 한국로봇학회 학술대회 발표작입니다. 자연어 명령�
 - Interactive Robotics Lab 연구 프로젝트 수행
 - Human-Robot Interaction 분야 핵심 기술 구현
 
+## 참고 자료
+
+- [ICROS 2025 시상 안내](https://2025.icros.org/?page_id=61)
+- [DBpia 논문 페이지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313642)
+
 ---
 
 [메인으로 돌아가기](../README.md) 

@@ -1,20 +1,20 @@
+[View this page in English](README.md)
+
 <div align="center">
 
-## Jimin Byeon (변지민)
+## 변지민 (Jimin Byeon)
 
-AI robotics undergraduate researcher shaping language-grounded human-robot interaction.  
-Prototyping safety-aware collaboration pipelines at the Interactive Robotics Lab, Sejong University (Seoul).
-
-[Read in Korean](README.ko.md)
+AI 로보틱스 학부 연구생으로 자연어·시각·제스처를 잇는 인간-로봇 상호작용을 설계합니다.  
+세종대학교 Interactive Robotics Lab에서 안전 중심 협업 로봇 연구를 진행하고 있습니다.
 
 </div>
 
 ---
 
-### Research Focus
-- Build multimodal perception pipelines that align language, vision, and gesture cues
-- Transfer manipulation policies from simulation to 6-DoF laboratory robot arms
-- Design human-subject evaluation frameworks for collaborative and service robots
+### 연구 초점
+- 언어·시각·모션 신호를 통합하는 멀티모달 인지 파이프라인 구축
+- 시뮬레이션에서 실험실 로봇팔로 전이 가능한 조작 알고리즘 개발
+- 사용자 연구 기반의 협업·서비스 로봇 평가 지표 설계
 
 ### Tech Stack
 
@@ -44,26 +44,26 @@ Prototyping safety-aware collaboration pipelines at the Interactive Robotics Lab
   </tr>
 </table>
 
-### Highlighted Projects
+### 대표 프로젝트
 - **[Vision-Language Robotic Manipulation](./projects/Vision-Language-Robotic-Manipulation.md)**  
-  Multimodal manipulation system that pairs spoken commands with pointing gestures in the lab.  
-  - Earned the ICROS 2025 Undergraduate Paper Award by fusing YOLO, MiDaS, and GPT-4o for spatial reasoning
+  자연어 명령과 손 포인팅을 결합한 실험실 로봇팔 제어 시스템.  
+  - YOLO·MiDaS·GPT-4o 융합으로 ICROS 2025 학부생 논문상 수상  
   - Stack: `ROS` `YOLO` `MiDaS` `GPT-4o`
 - **[Vibe-HandTune with LLM](./projects/Vibe-HandTune-with-LLM.md)**  
-  Interactive EDM controller that blends two-hand gestures with voice prompts.  
-  - Keeps latency below 50 ms while synchronizing Whisper commands with TouchDesigner visuals
+  제스처와 음성 명령을 동시에 사용하는 인터랙티브 EDM 컨트롤러.  
+  - 50ms 이하 지연으로 양손 제스처·Whisper 음성 제어를 TouchDesigner 비주얼과 동기화  
   - Stack: `MediaPipe` `Whisper` `Python` `TouchDesigner`
 - **[Gachiitda](./projects/Gachiitda.md)**  
-  Talent-sharing web platform delivered during Growthon 2025.  
-  - Deployed real-time chat with React and Express while maintaining ≥97 % test coverage across services
+  재능 기부자와 수요자를 연결하는 Growthon 2025 해커톤 웹 애플리케이션.  
+  - React·Express 기반 실시간 채팅과 테스트 커버리지 97% 이상 확보  
   - Stack: `React` `Express` `MongoDB` `Socket.io`
 
-### Experience & Contributions
-- **Interactive Robotics Lab, Sejong University** — Undergraduate researcher (Apr 2025– ); building safety-aware perception and evaluation tooling for collaborative robots.
-- **ICROS 2025 Undergraduate Paper Award** — Presented a language-gesture fused manipulation pipeline for intuitive robot control.
-- **Team UI:MI · CTO** — Leading the system architecture of a student-led talent sharing startup team.
+### 경험 및 활동
+- **Interactive Robotics Lab (Sejong Univ.)** — 학부 연구생 (2025.04~); 안전 인지·사용자 평가 도구 개발
+- **ICROS 2025 학부생 논문상** — 언어-제스처 융합 로봇 제어 파이프라인 발표
+- **Team UI:MI | CTO** — 재능 공유 플랫폼의 시스템 아키텍처 리드
 
-### Contact
+### 연락처
 - GitHub: [@Zinki06](https://github.com/Zinki06)
 - Email: [jimmy.byeon@sju.ac.kr](mailto:jimmy.byeon@sju.ac.kr)
 - Lab: [Interactive Robotics Lab](https://sites.google.com/view/interactive-robotics-lab)
