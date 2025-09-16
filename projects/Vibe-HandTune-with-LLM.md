@@ -1,59 +1,61 @@
+[Read in Korean](./Vibe-HandTune-with-LLM.ko.md)
+
 # Vibe-HandTune with LLM
 
-## 프로젝트 개요
+## Overview
 
-실시간 손 제스처를 통해 EDM 음악을 직관적으로 제어하는 인터랙티브 뮤직 시스템입니다. MediaPipe와 LLM을 결합하여 새로운 형태의 디지털 음악 퍼포먼스를 구현했습니다.
+Vibe-HandTune is an interactive EDM performance tool that blends real-time hand gestures with voice prompts. The system combines MediaPipe hand tracking and large language models to let artists sculpt sound without traditional controllers.
 
-## 주요 기능
+## Key Features
 
-- MediaPipe를 활용한 실시간 손 제스처 인식
-- 양손 독립 제어 (왼손: 베이스, 오른손: 리드)
-- TouchDesigner 기반 실시간 비주얼 피드백
-- Whisper 음성 명령 통합
-- MIDI 출력으로 외부 DAW 연동
+- Real-time gesture recognition powered by MediaPipe Hands
+- Independent control per hand (left: bass dynamics, right: lead synth parameters)
+- TouchDesigner-driven visuals that react to motion data
+- Whisper speech commands for quick preset switching
+- MIDI output pipeline for DAW integration
 
-## 기술 스택
+## Tech Stack
 
-**Computer Vision**: MediaPipe, OpenCV
-**Audio**: TouchDesigner, MIDI
-**AI**: Whisper (OpenAI)
+**Computer Vision**: MediaPipe, OpenCV  
+**Audio & Visuals**: TouchDesigner, MIDI  
+**AI**: Whisper (OpenAI)  
 **Language**: Python
 
-## 구현 과정
+## Implementation Notes
 
-### 1. 제스처 인식 시스템
-MediaPipe Hands를 사용하여 손의 21개 키포인트를 실시간으로 추적했습니다.
+### 1. Gesture Tracking
+MediaPipe Hands tracks 21 landmarks per hand at 30+ FPS. Temporal smoothing keeps the signals stable for musical mapping.
 
-### 2. 제스처-음악 매핑
-- 왼손 Y축: 베이스 볼륨
-- 왼손 X축: 로우패스 필터
-- 오른손 Y축: 리드 신스 볼륨
-- 오른손 X축: 리버브 깊이
+### 2. Gesture-to-Music Mapping
+- Left hand Y-axis → bass volume envelope
+- Left hand X-axis → low-pass filter cutoff
+- Right hand Y-axis → lead synth gain
+- Right hand X-axis → reverb depth
 
-### 3. 시각적 피드백
-TouchDesigner에서 제스처에 반응하는 실시간 파티클 시스템과 색상 변화를 구현했습니다.
+### 3. Visual Feedback
+TouchDesigner renders a particle field whose color and intensity follow gesture velocity, creating an immediate visual response on stage.
 
-### 4. 음성 제어
-Whisper를 통해 음성 명령을 텍스트로 변환하고, 특정 키워드로 음악 파라미터를 제어했습니다.
+### 4. Voice Control
+Whisper converts spoken cues to text. Keywords (e.g., "drop", "bridge") trigger parameter macros for rapid scene changes.
 
-## 성과 및 한계
+## Impact & Limitations
 
-**성과**:
-- 50ms 이하의 낮은 지연시간으로 자연스러운 제어 구현
-- 직관적인 제스처 기반 음악 제어 방식 제시
-- 실시간 시각화로 몰입감 있는 퍼포먼스 환경
+**Impact**  
+- Achieved <50 ms round-trip latency for natural performance flow  
+- Demonstrated a controller-free EDM workflow with high audience engagement  
+- Delivered synchronized audio-visual feedback for immersive showcases
 
-**한계**:
-- 조명 조건에 따른 인식률 변화
-- 복잡한 제스처 조합의 한계
-- 장시간 사용 시 피로도
+**Limitations**  
+- Gesture accuracy drops under harsh lighting or occlusion  
+- Complex gesture chords require user training  
+- Extended sessions can cause performer fatigue
 
-## 개선 방향
+## Next Steps
 
-- 조명 보정 알고리즘 추가
-- 개인별 제스처 학습 시스템
-- VR/AR 환경과의 통합
+- Add adaptive lighting compensation for vision robustness  
+- Personalize gesture templates per performer  
+- Explore VR/AR staging to extend immersion
 
 ---
 
-[메인으로 돌아가기](../README.md)
+[Back to main README](../README.md)

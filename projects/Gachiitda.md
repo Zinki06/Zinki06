@@ -1,41 +1,43 @@
-# 가치있다 (Gachiitda)
+[Read in Korean](./Gachiitda.ko.md)
 
-## 프로젝트 개요
+# Gachiitda
 
-Growthon 2025 해커톤에서 개발한 재능기부 매칭 플랫폼입니다. 도움이 필요한 사람과 재능을 나누려는 사람을 연결하는 웹 애플리케이션입니다.
+## Overview
 
-## 주요 기능
+Gachiitda is a talent-sharing platform built during the Growthon 2025 hackathon. It matches volunteers who want to contribute their skills with communities that need support.
 
-- 회원가입 및 로그인 시스템
-- 사용자 프로필 및 스킬 등록
-- 지역 및 카테고리별 매칭
-- 실시간 채팅 시스템
-- 평가 및 후기 시스템
+## Core Features
 
-## 기술 스택
+- Account creation and secure login
+- Rich user profiles with skill tagging
+- Location and category-based matching engine
+- Real-time messaging for volunteers and recipients
+- Review and rating workflow after each engagement
 
-**Frontend**: React, Vite
-**Backend**: Express.js, Node.js
-**Database**: MongoDB
-**Real-time**: Socket.io
+## Tech Stack
+
+**Frontend**: React, Vite  
+**Backend**: Express.js, Node.js  
+**Database**: MongoDB  
+**Real-time**: Socket.io  
 **Deployment**: Docker
 
-## 구현 내용
+## Implementation Highlights
 
-프론트엔드는 React로 사용자 인터페이스를 구성했고, 백엔드는 Express.js로 API를 개발했습니다. MongoDB를 사용하여 사용자 정보와 매칭 데이터를 저장하고, Socket.io로 실시간 채팅 기능을 구현했습니다.
+The React frontend delivers a responsive onboarding flow, while Express.js handles RESTful APIs and authentication. MongoDB stores user skills, availability, and requests. Socket.io powers live chat rooms so participants can coordinate tasks without leaving the platform.
 
-## 성과
+## Achievements
 
-- 프론트엔드 99.2%, 백엔드 97.6% 테스트 커버리지 달성
-- 교육 소외계층을 위한 실용적인 매칭 시스템 구현
-- Growthon 2025 해커톤 완주
+- Reached 99.2 % frontend and 97.6 % backend test coverage during the hackathon sprint
+- Shipped a practical matching workflow focused on underserved learners
+- Completed the Growthon 2025 program with a functioning MVP
 
-## 개선 방향
+## Future Work
 
-- 매칭 알고리즘 정확도 향상
-- 모바일 앱 버전 개발
-- 사용자 피드백 기반 UI/UX 개선
+- Improve the recommendation algorithm with behavioral signals
+- Launch a mobile client for broader accessibility
+- Iterate on UX based on volunteer and beneficiary feedback
 
 ---
 
-[메인으로 돌아가기](../README.md) 
+[Back to main README](../README.md)

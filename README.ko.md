@@ -45,15 +45,15 @@ AI 로보틱스 학부 연구생으로 자연어·시각·제스처를 잇는 �
 </table>
 
 ### 대표 프로젝트
-- **[Vision-Language Robotic Manipulation](./projects/Vision-Language-Robotic-Manipulation.md)**  
+- **[Vision-Language Robotic Manipulation](./projects/Vision-Language-Robotic-Manipulation.ko.md)**  
   자연어 명령과 손 포인팅을 결합한 실험실 로봇팔 제어 시스템.  
   - YOLO·MiDaS·GPT-4o 융합으로 ICROS 2025 학부생 논문상 수상  
   - Stack: `ROS` `YOLO` `MiDaS` `GPT-4o`
-- **[Vibe-HandTune with LLM](./projects/Vibe-HandTune-with-LLM.md)**  
+- **[Vibe-HandTune with LLM](./projects/Vibe-HandTune-with-LLM.ko.md)**  
   제스처와 음성 명령을 동시에 사용하는 인터랙티브 EDM 컨트롤러.  
   - 50ms 이하 지연으로 양손 제스처·Whisper 음성 제어를 TouchDesigner 비주얼과 동기화  
   - Stack: `MediaPipe` `Whisper` `Python` `TouchDesigner`
-- **[Gachiitda](./projects/Gachiitda.md)**  
+- **[Gachiitda](./projects/Gachiitda.ko.md)**  
   재능 기부자와 수요자를 연결하는 Growthon 2025 해커톤 웹 애플리케이션.  
   - React·Express 기반 실시간 채팅과 테스트 커버리지 97% 이상 확보  
   - Stack: `React` `Express` `MongoDB` `Socket.io`

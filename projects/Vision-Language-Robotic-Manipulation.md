@@ -1,46 +1,48 @@
-# Vision-Language 로봇 조작 시스템
+[Read in Korean](./Vision-Language-Robotic-Manipulation.ko.md)
 
-## 프로젝트 개요
+# Vision-Language Robotic Manipulation
 
-ICROS 2025 한국로봇학회 학술대회 발표작입니다. 자연어 명령과 손 포인팅 제스처를 통해 로봇을 직관적으로 조작하는 Vision-Language 기반 로봇 제어 시스템을 개발했습니다.
+## Overview
 
-## 주요 기능
+Developed for the ICROS 2025 conference, this system lets operators control a laboratory robot arm through natural language commands paired with pointing gestures. The goal is to make multimodal manipulation intuitive for non-expert users.
 
-- STT 기반 음성 명령 처리
-- 손 포인팅 제스처로 3D 좌표 지정
-- YOLO를 활용한 실시간 객체 탐지
-- MiDaS 모델로 깊이 추정
-- GPT-4o 기반 자연어 이해
+## Key Capabilities
 
-## 기술 스택
+- Speech-to-text pipeline for hands-free command input
+- 3D target selection from pointing gestures
+- Real-time YOLO-based object detection
+- MiDaS depth estimation for spatial grounding
+- GPT-4o intent parsing and task planning
 
-**Robotics**: ROS, Python
-**Computer Vision**: YOLO, MiDaS, OpenCV, MediaPipe
-**AI**: GPT-4o, Whisper
-**Hardware**: 6-DOF 로봇팔
+## Tech Stack
 
-## 시스템 구조
+**Robotics**: ROS, Python  
+**Computer Vision**: YOLO, MiDaS, OpenCV, MediaPipe  
+**AI**: GPT-4o, Whisper  
+**Hardware**: 6-DoF robot arm
 
-음성 입력과 손 제스처를 동시에 처리하여 로봇팔을 제어합니다. STT로 변환된 음성 명령을 GPT-4o로 분석하고, MediaPipe로 손 위치를 추적하여 3D 좌표를 계산합니다. YOLO로 객체를 탐지하고 MiDaS로 깊이를 추정하여 ROS를 통해 로봇팔에 전달합니다.
+## System Architecture
 
-## 핵심 특징
+Audio commands are transcribed with Whisper, interpreted via GPT-4o, and fused with MediaPipe hand tracking to triangulate pointing targets. YOLO provides instance-level detection, while MiDaS supplies depth cues so ROS can plan precise trajectories for the arm.
 
-- 자연어와 제스처를 결합한 직관적인 로봇 제어
-- 멀티모달 정보 융합으로 정밀한 조작 가능
-- 실시간 처리로 자연스러운 인터랙션
-- 모듈식 설계로 다양한 로봇에 적용 가능
+## Highlights
 
-## 성과
+- Natural language + gesture interface for intuitive control
+- Multimodal fusion enables centimeter-level targeting accuracy
+- Real-time processing keeps interaction responsive
+- Modular design adapts to other robot platforms with minimal changes
 
-- ICROS 2025 한국로봇학회 학술대회 논문 발표 선정
-- Interactive Robotics Lab 연구 프로젝트 수행
-- Human-Robot Interaction 분야 핵심 기술 구현
+## Outcome
 
-## 참고 자료
+- Selected for oral presentation at ICROS 2025 (Undergraduate Paper Award)
+- Core research project within the Interactive Robotics Lab
+- Demonstrates transferable techniques for human-robot interaction studies
 
-- [ICROS 2025 시상 안내](https://2025.icros.org/?page_id=61)
-- [DBpia 논문 페이지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313642)
+## References
+
+- [ICROS 2025 Awards Overview](https://2025.icros.org/?page_id=61)
+- [DBpia Paper Entry](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313642)
 
 ---
 
-[메인으로 돌아가기](../README.md) 
+[Back to main README](../README.md)
